@@ -1,0 +1,11 @@
+p {
+    width: 100px;
+    height: 100px;
+    background-color: tomato;
+}
+p.c1 {
+    background-color: blue;
+}
+p.c2 {
+    opacity: 0.5;
+}
